@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FinalTEST.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{5B0757A1-1133-4164-B073-229F96E65572}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FinalTEST.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FinalTESTEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8684AA90-BFCA-4875-8558-9F8E71C996DC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\steamvr_ue_editor_app.json">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\SteamVRBindings">
+      <UniqueIdentifier>{8A5F2238-5CCC-4432-AFF2-2E76A04E2FD9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\SteamVRBindings\gamepad.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\holographic_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\hpmotioncontroller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\indexhmd.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\knuckles.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\oculus_touch.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\rift.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\steamvr_manifest.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_cosmos_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_pro.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_camera.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_chest.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_handed.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_keyboard.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_left_elbow.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_left_foot.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_left_knee.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_left_shoulder.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_right_elbow.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_right_foot.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_right_knee.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_right_shoulder.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_waist.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <Filter Include="Source\FinalTEST">
+      <UniqueIdentifier>{0FABA197-450B-4EB8-AC78-5ED80BA76E17}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FinalTEST\FinalTEST.Build.cs">
+      <Filter>Source\FinalTEST</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FinalTEST\FinalTEST.cpp">
+      <Filter>Source\FinalTEST</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalTEST\FinalTEST.h">
+      <Filter>Source\FinalTEST</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FinalTEST\StringToTxt.cpp">
+      <Filter>Source\FinalTEST</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalTEST\StringToTxt.h">
+      <Filter>Source\FinalTEST</Filter>
+    </ClInclude>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{B836E098-1605-4647-85FD-8D093C753DB8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\StoryboardInVR">
+      <UniqueIdentifier>{20EB6F63-298E-47CA-9C0A-237A20815265}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\StoryboardInVR\StoryboardInVR.uplugin">
+      <Filter>Plugins\StoryboardInVR</Filter>
+    </None>
+    <Filter Include="Plugins\StoryboardInVR\Config">
+      <UniqueIdentifier>{3200337A-DD27-4D45-8B4F-A7184F08606B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\StoryboardInVR\Config\FilterPlugin.ini">
+      <Filter>Plugins\StoryboardInVR\Config</Filter>
+    </None>
+    <Filter Include="Plugins\StoryboardInVR\Resources">
+      <UniqueIdentifier>{5D401CC4-BB0C-4052-A334-D8B480ECBC6B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\StoryboardInVR\Resources\Icon128.png">
+      <Filter>Plugins\StoryboardInVR\Resources</Filter>
+    </None>
+  </ItemGroup>
+</Project>

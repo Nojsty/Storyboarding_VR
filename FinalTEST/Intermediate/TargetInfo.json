@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FinalTEST",
+			"Path": "D:\\GitHub\\FinalTEST\\Source\\FinalTEST.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FinalTESTEditor",
+			"Path": "D:\\GitHub\\FinalTEST\\Source\\FinalTESTEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
