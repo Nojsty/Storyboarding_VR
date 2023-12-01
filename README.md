@@ -8,7 +8,7 @@ to take off the headset, namely:
 * Create and place down a mannequin in the scene.
 * Rotate position of the sun horizontally and vertically in order to bettter approximate time of the day.
 
-[![Video Example](https://img.youtube.com/vi/dFLagzxmiPQ/maxresdefault.jpg)](https://youtu.be/dFLagzxmiPQ "Video Example")
+Video: https://youtu.be/dFLagzxmiPQ
 
 ![plot](./Screenshots/Menu.png "Main menu")
 ![plot](./Screenshots/Note.png "Note taking")
